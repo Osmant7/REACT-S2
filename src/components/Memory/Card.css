@@ -1,0 +1,9 @@
+.memoryCard{
+	width:100px;
+	height:100px;
+	background:rgb(226, 253, 226);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor:pointer;
+}
